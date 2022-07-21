@@ -32,4 +32,4 @@ CUvsAD:
 
 Multi-class Classification:
 
-![](https://github.com/ailinglin22/LWP/tree/main/imgs/Results_2.png)
+![](https://github.com/ailinglin22/LWP/blob/main/imgs/Results_2.png)
