@@ -22,8 +22,8 @@ We address the task of classifying Alzheimer’s disease from 3D volumetricmedic
 
 
 ## Workflow:
-![](https://github.com/ailinglin22/LWP/tree/main/imgs/architecture.png)
-https://github.com/ailinglin22/LWP/tree/main/imgs
+![](https://github.com/ailinglin22/LWP/blob/main/imgs/architecture.png)
+
 
 ## Results:
 CUvsAD:
